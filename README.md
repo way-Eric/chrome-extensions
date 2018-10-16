@@ -3,7 +3,7 @@
 
 ## ppt文件使用
 这是用reveal.js写的前端ppt
-你需要进入前端ppt.js这个文件夹 => 安装依赖 npm install => npm start 启动项目 => 端口是8000
+你需要进入PPT这个文件夹 => 安装依赖 npm install => npm start 启动项目 => 端口是8000
 
 ## demo是放在 chrome扩展插件-自学 这个文件夹中
 
